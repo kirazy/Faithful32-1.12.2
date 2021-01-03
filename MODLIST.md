@@ -81,10 +81,13 @@ Flux Networks | Not Implemented | calculator / fluxnetworks / sonarcore
 Forestry | In Progress | forestry
 FTBLib | Not Implemented | ftbl
 FTBUtilities | Not Implemented | ftbu
+FTB Quests | In Progress | ftbquests
 Gadgetry Core | Not Implemented | gadgetrycore
 Gadgetry Machines | Not Implemented | gadgetrymachines
 Gendustry | Not Implemented | gendustry
 Gravestone | Not Implemented | gravestone
+GregTech Community Edition | In Progress | gregtech
+Gregicality | In Progress | forestry / gregtech / gtadditions
 Guide API | Not Implemented | guideapi
 Immersive Engineering | In Progress | immersiveengineering / minecraft
 Immersive Petroleum | Not Implemented | immersivepetroleum
